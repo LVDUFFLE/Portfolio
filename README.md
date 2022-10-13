@@ -1,7 +1,7 @@
 # Portfolio
 This portfolio is a small project using HTML/ CSS and Boostrap. I will be using this to show case my projects
 [Live Heroku Deployment](#link)
-![image](#link)
+![image]()
 ## Technologies Used
 *HTML
 *CSS
